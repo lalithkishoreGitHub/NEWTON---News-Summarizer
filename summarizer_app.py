@@ -59,5 +59,5 @@ st.markdown("""
         }
     </style>
 
-    <a href="http://localhost:8502" target="_blank" class="pill-button">📊 View ROUGE Scores Dashboard</a>
+    <a href="https://newton-news-dashboard.streamlit.app/" target="_blank" class="pill-button">📊 View ROUGE Scores Dashboard</a>
 """, unsafe_allow_html=True)
